@@ -152,3 +152,4 @@ Linux: `sudo apt-get install graphviz`
 Coming soon.
 
 ## License 🔏
+Please see the LICENSE file.
